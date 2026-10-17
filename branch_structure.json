@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1180-listing-detail-push-notifications-route-to-a",
+    "fix/issue-1190-networkguardprovider-hardcodes-expectednetwork",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1180-listing-detail-push-notifications-route-to-a": "main",
+    "fix/issue-1190-networkguardprovider-hardcodes-expectednetwork": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1180-listing-detail-push-notifications-route-to-a",
+    "fix/issue-1190-networkguardprovider-hardcodes-expectednetwork",
+    "origin"
+  ]
+}
